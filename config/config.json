@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "tur",
+    "user": "postgres",
+    "password": "1234",
+    "driver": "pg",
+    "multipleStatements": true,
+    "dialect": "postgres",
+    "ssl": false,
+    "dialectOptions": {}
+  },
+  "sql-file": true
+}
